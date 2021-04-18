@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pb_settings_form input[type=text],
+.wps-field-inputs input[type=text] {
+    width: 320px;
+}
+
+.pb_settings_form input[type=number],
+.wps-field-inputs input[type=number] {
+    width: 80px;
+}
